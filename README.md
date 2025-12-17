@@ -1,24 +1,36 @@
-<h1 style="color: #5e9ca0;">Seja bem vindo!</h1>
-<h2 style="color: #2e6c80;">Certified : Microsoft AZ900 | DP900 | CertiProf &ndash; SFPC | SQL Expert | Power BI Analyst |- PUC Ciencia de Dados Python 2025</h2>
-<p>Aqui voc&ecirc; pode usar e ver meus projetos. Estou a disposi&ccedil;&atilde;o para sua organiza&ccedil;&atilde;o e entregar os resutlados que voc&ecirc; deseja.</p>
-<p><strong>Graduado em Tecnologia de Informa&ccedil;&atilde;o, P&oacute;s Graduado em Banco de Dados e P&oacute;s Graduando em Ci&ecirc;ncia de Dados - PUC</strong></p>
+# Olá, eu sou o [Seu Nome]! 👋
 
-<h2 style="color: #2e6c80;">Saiba mais sobre mim no LINKEDIN</h2>
+### Analista de Dados | Especialista em BI & Engenharia de Dados
 
- ### Meu skills:
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
-<hr />
-<!--Inicio do botao -->
-<table width="257" border="0" align="center">
-  <tr>
-    <td width="110" align="center" valign="middle"><a href="mailto:eduardophilomeno@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></td> <td width="6" align="center" valign="middle" >||</td>
-    <td width="127" align="center" valign="middle"><a href="www.linkedin.com/in/eduardo-philomeno"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    
-     
-  </tr>
- 
-  
-<!--Fim do botao -->
+Sou um profissional apaixonado por transformar dados brutos em insights estratégicos. Com formação em TI e especializações em Banco de Dados e Ciência de Dados (PUC), foco em criar soluções que otimizem a tomada de decisão.
 
+---
+
+## 🚀 Minhas Certificações
+* **Microsoft:** AZ-900 (Azure Fundamentals) | DP-900 (Azure Data Fundamentals)
+* **CertiProf:** SFPC (Scrum Foundation)
+* **Especialista:** SQL Expert | Power BI Analyst | Python para Ciência de Dados (PUC 2025)
+
+---
+
+## 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Análise & BI** | Power BI, Excel Avançado, DAX |
+| **Linguagens** | Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, SQL Server) |
+| **Dados & Cloud** | Data Lake, Modelagem Dimensional (Star Schema), Azure |
+| **Metodologias** | Scrum, ETL/ELT, Storytelling com Dados |
+
+---
+
+## 📊 Destaques de Projetos
+*(Dica: Liste 2 ou 3 projetos principais aqui com links)*
+* **[Nome do Projeto]:** Análise de [X] utilizando Python e Power BI para reduzir [Y]% de custos.
+* **[Modelo de Dados DW]:** Estruturação de um Data Warehouse utilizando o dataset Adventure Works.
+
+---
+
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
