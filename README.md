@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Eduardo!
 
 ### Analista de Dados | Especialista em BI & Engenharia de Dados
 
